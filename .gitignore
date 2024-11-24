@@ -1,0 +1,114 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopCache.cache
+
+# Files built by Visual Studio
+*.dll
+*.exe
+*.app
+*.ipa
+*.dmg
+*.so
+*.class
+*.jar
+*.pdb
+*.db
+*.cache
+*.bak
+*.swp
+*.obj
+*.elf
+
+# Azure Functions
+local.settings.json
+
+# Node.js (if using Node for any front-end development)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python virtual environments (if using Python scripts)
+env/
+venv/
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.vscode/*
+
+# DotNet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NCrunch
+*.ncrunch*
+NCrunchTemp/
+
+# Coverity Analysis
+.coverity/
+
+# Backup & Patch
+*.orig
+*.patch
+
+# Miscellaneous
+*.stackdump
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Explorer
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
